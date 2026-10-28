@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/coloros-download/1.0.0",
-  "changelog": "ColorOS版本 首个版本：\n- 版本历史页：ColorOS 1-17代完整列表\n- 升级计划页：分批推送进度动画\n- 关于页：官方数据实时拉取\n- 底部液态玻璃导航"
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/coloros-download/1.0.1",
+  "changelog": "【v1.0.1 更新】\n• 左上角液态玻璃返回按钮\n• 底部导航折射增强，更通透\n• 模糊半径降低，透镜折射加大"
 }
