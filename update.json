@@ -1,1 +1,6 @@
-{"versionCode":6,"versionName":"1.0.5","downloadUrl":"https://hualiu-auth-server-production.up.railway.app/api/coloros-download/1.0.5","changelog":"v1.0.5: 修复OTA弹窗闪退"}
+{
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/coloros-download/1.0.6",
+  "changelog": "\u6db2\u6001\u73bb\u7483\u5e95\u90e8\u5bfc\u822a\u540c\u6b65\u6700\u65b0\u7248"
+}
